@@ -5,7 +5,7 @@
 -김나리<br>
 -영남대학교 통계학과 재학 중<br>
 
-#tech study
+#tech study<br>
 -Language:SQL, Java, R, Python(기초)
 
 <!--
