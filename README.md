@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi👋
+데이터 기반 문제 해결과 데이터 분석에 관심 있는 학생입니다.
+
+# introduce
+-김나리
+-영남대학교 통계학과 재학 중 
 
 <!--
 **lily9809oo/lily9809oo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
