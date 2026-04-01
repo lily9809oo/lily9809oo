@@ -5,6 +5,8 @@
 -김나리<br>
 -영남대학교 통계학과 재학 중 
 
+#tech study
+-Language:SQL, Java, C, Python(기초)
 <!--
 **lily9809oo/lily9809oo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
